@@ -83,8 +83,8 @@ django-Todo/
 
 ## Yaratuvchi
 
-- Ism: [Sizning ismingiz]
-- Email: [Sizning email manzilingiz]
+- Ism: @MuhammadKarimov-dev
+
 
 ## Litsenziya
 
