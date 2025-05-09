@@ -22,7 +22,7 @@ Bu loyiha Django framework yordamida yaratilgan vazifalar boshqarish tizimi. Foy
 
 1. Loyihani klonlang:
 ```bash
-git clone https://github.com/yourusername/optimal-todo.git
+https://github.com/MuhammadKarimov-dev/django-Todo
 cd optimal-todo
 ```
 
