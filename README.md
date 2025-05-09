@@ -23,7 +23,7 @@ Bu loyiha Django framework yordamida yaratilgan vazifalar boshqarish tizimi. Foy
 1. Loyihani klonlang:
 ```bash
 https://github.com/MuhammadKarimov-dev/django-Todo
-cd optimal-todo
+cd django-Todo
 ```
 
 2. Virtual muhit yarating va faollashtiring:
