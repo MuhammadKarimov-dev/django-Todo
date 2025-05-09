@@ -53,7 +53,7 @@ python manage.py runserver
 ## Loyiha strukturasi
 
 ```
-optimal-todo/
+django-Todo/
 ├── manage.py
 ├── requirements.txt
 ├── templates/
